@@ -4,15 +4,6 @@
 </p>
 
 
-## Stack
-
-- React Native
-- Typescript
-- Expo 
-- Victory Charts
-- React Native SVG
-
-
 ## Features
 
 - Filter expenses by month
