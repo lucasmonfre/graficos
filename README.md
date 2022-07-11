@@ -4,10 +4,6 @@
 </p>
 
 
-# Expenses App
-
-Application used in live broadcast on Youtube to teach how to work with graphics in React Native. This application is a personal finance manager and generates graphs of expenses by filtering by month.
-
 ## Stack
 
 - React Native
